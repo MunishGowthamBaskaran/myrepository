@@ -1,0 +1,159 @@
+[ { "children" : [ { "name" : "scent",
+          "negCount" : 0,
+          "posCount" : 11,
+          "size" : 7
+        },
+        { "name" : "aroma",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 2
+        },
+        { "name" : "cologne",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "woody",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 1
+        }
+      ],
+    "name" : "smell",
+    "negCount" : 0,
+    "posCount" : 16,
+    "size" : 11
+  },
+  { "children" : [ { "name" : "hand",
+          "negCount" : 1,
+          "posCount" : 30,
+          "size" : 7
+        },
+        { "name" : "skin",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "body parts",
+    "negCount" : 1,
+    "posCount" : 31,
+    "size" : 8
+  },
+  { "children" : [ { "name" : "design",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 2
+        },
+        { "name" : "gifting",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 2
+        }
+      ],
+    "name" : "attributes",
+    "negCount" : 0,
+    "posCount" : 4,
+    "size" : 4
+  },
+  { "children" : [ { "name" : "treat",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 2
+        },
+        { "name" : "lather",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "praise",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "effect",
+    "negCount" : 0,
+    "posCount" : 4,
+    "size" : 4
+  },
+  { "children" : [ { "name" : "christmas",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 1
+        },
+        { "name" : "luxury",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "mercy",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "pleasure",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "feelings",
+    "negCount" : 0,
+    "posCount" : 5,
+    "size" : 4
+  },
+  { "children" : [ { "name" : "guest",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "kid",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "partner",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "use by relationships",
+    "negCount" : 0,
+    "posCount" : 3,
+    "size" : 3
+  },
+  { "children" : [ { "name" : "home",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        },
+        { "name" : "sunlight",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "use",
+    "negCount" : 0,
+    "posCount" : 2,
+    "size" : 2
+  },
+  { "children" : [ { "name" : "christmas",
+          "negCount" : 0,
+          "posCount" : 2,
+          "size" : 1
+        },
+        { "name" : "night",
+          "negCount" : 0,
+          "posCount" : 1,
+          "size" : 1
+        }
+      ],
+    "name" : "use timings",
+    "negCount" : 0,
+    "posCount" : 3,
+    "size" : 2
+  }
+]

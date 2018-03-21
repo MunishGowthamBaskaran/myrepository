@@ -1,0 +1,16 @@
+.tagPopUp{
+	right: 14px;
+	border: 1px solid #d5d5d5;
+	background-color: white;
+	cursor: auto;
+	max-height: 350px;
+	max-width:6000px;
+	min-width: 177px;
+	overflow: auto;	
+	position: absolute;
+	z-index: 100;
+	-moz-box-shadow: 5px 5px 7px #aaa;
+	-webkit-box-shadow: 5px 5px 7px #aaa;
+	box-shadow: 5px 5px 7px #aaa;
+	padding: 10px 10px 10px 10px;	
+}

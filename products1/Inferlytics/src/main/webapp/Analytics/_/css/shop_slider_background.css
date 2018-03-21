@@ -1,0 +1,25 @@
+.slide-bg1 {
+    background:url(http://images.inferlytics.com/slider/product_attributes.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.slide-bg2 {
+    background:url(http://images.inferlytics.com/slider/purchase_decisions.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.slide-bg3 {
+    background:url(http://images.inferlytics.com/slider/increased_sales.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.slide-bg4 {
+    background:url(http://images.inferlytics.com/slider/customer_opinions.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.slide-bg5 {
+    background:url(http://images.inferlytics.com/slider/select_right_product.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}

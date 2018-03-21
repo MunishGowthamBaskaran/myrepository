@@ -1,0 +1,167 @@
+/* prefix declarations */
+/* THEME STYLES */
+#sequence-twitter,#sequence-twitter_2,#sequence-twitter_3,#sequence-twitter_4,#sequence-twitter_5 {
+	position: relative;
+	max-width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	background: #000;
+	color: white;
+	font-family: lora, serif;
+	font-style: italic;
+	font-weight: normal;
+}
+
+#sequence-twitter>.sequence-canvas,#sequence-twitter_2>.sequence-canvas,#sequence-twitter_3>.sequence-canvas,#sequence-twitter_4>.sequence-canvas,#sequence-twitter_5>.sequence-canvas
+	{
+	height: 100%;
+	width: 100%;
+	padding: 0;
+}
+
+#sequence-twitter>.sequence-canvas>li,#sequence-twitter_2>.sequence-canvas>li,#sequence-twitter_3>.sequence-canvas>li,#sequence-twitter_4>.sequence-canvas>li,#sequence-twitter_5>.sequence-canvas>li
+	{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#sequence-twitter>.sequence-canvas li>*,#sequence-twitter_2>.sequence-canvas li>*,#sequence-twitter_3>.sequence-canvas li>*,#sequence-twitter_4>.sequence-canvas li>*,#sequence-twitter_5>.sequence-canvas li>*
+	{
+	position: absolute;
+	-webkit-transition-timing-function: ease-in-out;
+	-moz-transition-timing-function: ease-in-out;
+	-ms-transition-timing-function: ease-in-out;
+	-o-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+#sequence-twitter>.sequence-canvas:after,#sequence-twitter_2>.sequence-canvas:after,#sequence-twitter_3>.sequence-canvas:after,#sequence-twitter_4>.sequence-canvas:after,#sequence-twitter_5>.sequence-canvas:after
+	{
+	content: "";
+	display: block;
+	clear: both;
+	width: 100%;
+}
+
+#sequence-twitter .sequence-next,#sequence-twitter .sequence-prev,#sequence-twitter_2 .sequence-next,#sequence-twitter_2 .sequence-prev,#sequence-twitter_3 .sequence-next,#sequence-twitter_3 .sequence-prev,#sequence-twitter_4 .sequence-next,#sequence-twitter_4 .sequence-prev,#sequence-twitter_5 .sequence-next,#sequence-twitter_5 .sequence-prev
+	{
+	color: white;
+	cursor: pointer;
+	display: none;
+	font-size: 30px;
+	font-weight: 300;
+	position: absolute;
+	opacity: 0.9;
+	top: 50%;
+	-webkit-transform: translate(0, -50%);
+	-moz-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	height: 41px;
+	width: 41px;
+	z-index: 20;
+	line-height: 1.4;
+	text-align: center;
+}
+
+#sequence-twitter .sequence-prev,#sequence-twitter_2 .sequence-prev,#sequence-twitter_3 .sequence-prev ,#sequence-twitter_4 .sequence-prev ,#sequence-twitter_5 .sequence-prev  {
+	left: 2%;
+	top: 12px;
+	color: rgb(17, 192, 115);
+	position: relative;
+	display: inline;
+}
+
+#sequence-twitter .sequence-next,#sequence-twitter_2 .sequence-next,#sequence-twitter_3 .sequence-next,#sequence-twitter_4 .sequence-next ,#sequence-twitter_5 .sequence-next {
+	left: 86%;
+	top: 12px;
+	color: rgb(17, 192, 115);
+	position: relative;
+	display: inline;
+}
+
+#sequence-twitter .sequence-next:hover,#sequence-twitter .sequence-prev:hover,#sequence-twitter_2 .sequence-next:hover,#sequence-twitter_2 .sequence-prev:hover,#sequence-twitter_3 .sequence-next:hover,#sequence-twitter_3 .sequence-prev:hover,#sequence-twitter_4 .sequence-next:hover,#sequence-twitter_4 .sequence-prev:hover,#sequence-twitter_5 .sequence-next:hover,#sequence-twitter_5 .sequence-prev:hover
+	{
+	opacity: 1;
+	-webkit-transition-duration: 0.4s;
+	-moz-transition-duration: 0.4s;
+	-ms-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+#sequence-twitter .slide-tweet-text,#sequence-twitter_2 .slide-tweet-text,#sequence-twitter_3 .slide-tweet-text,#sequence-twitter_4 .slide-tweet-text,#sequence-twitter_5 .slide-tweet-text
+	{
+	top: 40%;
+	left: 0;
+	z-index: 1;
+	opacity: 0;
+	-webkit-transform: translate(0, -50%);
+	-moz-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	-webkit-transition-property: left top;
+	-moz-transition-property: left top;
+	-ms-transition-property: left top;
+	-o-transition-property: left top;
+	transition-property: left top;
+	-webkit-transition-delay: 0s;
+	-moz-transition-delay: 0s;
+	-ms-transition-delay: 0s;
+	-o-transition-delay: 0s;
+	transition-delay: 0s;
+	line-height: 20px;
+}
+
+#sequence-twitter .animate-in .slide-tweet-text,#sequence-twitter_2 .animate-in .slide-tweet-text,#sequence-twitter_3 .animate-in .slide-tweet-text,#sequence-twitter_4 .animate-in .slide-tweet-text,#sequence-twitter_5 .animate-in .slide-tweet-text
+	{
+	opacity: 1;
+	top: 40px;
+	left: 0%;
+	-webkit-transform: translate(0, -50%);
+	-moz-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-ms-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+	-webkit-transition-delay: 0s;
+	-moz-transition-delay: 0s;
+	-ms-transition-delay: 0s;
+	-o-transition-delay: 0s;
+	transition-delay: 0s;
+	z-index: 1;
+	color: black;
+	height: 220px;
+	overflow: auto;
+	margin-top: 90px;
+}
+
+#sequence-twitter .animate-out .slide-tweet-text,#sequence-twitter_2 .animate-out .slide-tweet-text,#sequence-twitter_3 .animate-out .slide-tweet-text,#sequence-twitter_4 .animate-out .slide-tweet-text,#sequence-twitter_4 .animate-out .slide-tweet-text
+	{
+	opacity: 0;
+	z-index: 1;
+	top: 60%;
+	-webkit-transform: translate(0, -50%);
+	-moz-transform: translate(0, -50%);
+	-ms-transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-ms-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-delay: 0s;
+	-moz-transition-delay: 0s;
+	-ms-transition-delay: 0s;
+	-o-transition-delay: 0s;
+	transition-delay: 0s;
+}

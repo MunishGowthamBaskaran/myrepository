@@ -1,0 +1,1160 @@
+{
+    "name": "NIKE",
+    "children": [
+        {
+            "name": "design",
+            "children": [
+                {
+                    "name": "design",
+                    "children": [
+                        {
+                            "name": "Weak Positive(470)",
+                            "color": "#BCEE68",
+                            "size": 470,
+                            "postIds": [
+                                "1818",
+                                "1720",
+                                "503",
+                                "1054",
+                                "1909",
+                                "1232"
+                            ],
+                            "words": [
+                                "loud",
+                                "narrow",
+                                "small",
+                                "supportive",
+                                "athletic",
+                                "sole",
+                                "sensitive"
+                            ]
+                        },
+                        {
+                            "name": "Positive(455)",
+                            "color": "#A2CD5A",
+                            "size": 455,
+                            "postIds": [
+                                "507",
+                                "929",
+                                "395",
+                                "672",
+                                "684",
+                                "551"
+                            ],
+                            "words": [
+                                "long",
+                                "snug",
+                                "fit",
+                                "flat",
+                                "sporty"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(454)",
+                            "color": "#6E8B3D",
+                            "size": 454,
+                            "postIds": [
+                                "1712",
+                                "1521",
+                                "1783",
+                                "693",
+                                "1565",
+                                "1410"
+                            ],
+                            "words": [
+                                "fit",
+                                "durable",
+                                "sporty",
+                                "small",
+                                "slim",
+                                "fitting",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(372)",
+                            "color": "#FFC1C1",
+                            "size": 372,
+                            "postIds": [
+                                "1708",
+                                "577",
+                                "930",
+                                "38",
+                                "1480",
+                                "101"
+                            ],
+                            "words": [
+                                "snug",
+                                "plain",
+                                "wider",
+                                "clunky",
+                                "stiff",
+                                "shiny",
+                                "flat"
+                            ]
+                        },
+                        {
+                            "name": "Negative(190)",
+                            "color": "#FF6666",
+                            "size": 190,
+                            "postIds": [
+                                "670",
+                                "1595",
+                                "347",
+                                "1616",
+                                "13",
+                                "1214"
+                            ],
+                            "words": [
+                                "thick",
+                                "sole",
+                                "breathable",
+                                "narrow",
+                                "fit",
+                                "rubber"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(71)",
+                            "color": "#FF3030",
+                            "size": 71,
+                            "postIds": [
+                                "1390",
+                                "185",
+                                "1555",
+                                "1205",
+                                "320",
+                                "1768"
+                            ],
+                            "words": [
+                                "long",
+                                "sole",
+                                "fit",
+                                "attractive",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Neutral(1)",
+                            "color": "#FFFFF0",
+                            "size": 1,
+                            "postIds": [
+                                "1861"
+                            ],
+                            "words": [
+                                "durable"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                },
+                {
+                    "name": "feel",
+                    "children": [
+                        {
+                            "name": "Weak Positive(306)",
+                            "color": "#BCEE68",
+                            "size": 306,
+                            "postIds": [
+                                "503",
+                                "1130",
+                                "1232",
+                                "544",
+                                "227",
+                                "221"
+                            ],
+                            "words": [
+                                "supportive",
+                                "light",
+                                "sensitive",
+                                "fit",
+                                "hard"
+                            ]
+                        },
+                        {
+                            "name": "Positive(321)",
+                            "color": "#A2CD5A",
+                            "size": 321,
+                            "postIds": [
+                                "929",
+                                "159",
+                                "684",
+                                "551",
+                                "1854",
+                                "621"
+                            ],
+                            "words": [
+                                "fit",
+                                "snug",
+                                "light",
+                                "sporty"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(343)",
+                            "color": "#6E8B3D",
+                            "size": 343,
+                            "postIds": [
+                                "1712",
+                                "1783",
+                                "693",
+                                "513",
+                                "1116",
+                                "1221"
+                            ],
+                            "words": [
+                                "fit",
+                                "sporty",
+                                "fitting",
+                                "cushiony",
+                                "tight"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(220)",
+                            "color": "#FFC1C1",
+                            "size": 220,
+                            "postIds": [
+                                "1708",
+                                "930",
+                                "38",
+                                "1463",
+                                "1716",
+                                "462"
+                            ],
+                            "words": [
+                                "tight",
+                                "snug",
+                                "clunky",
+                                "stiff"
+                            ]
+                        },
+                        {
+                            "name": "Negative(99)",
+                            "color": "#FF6666",
+                            "size": 99,
+                            "postIds": [
+                                "670",
+                                "347",
+                                "13",
+                                "1214",
+                                "630",
+                                "1194"
+                            ],
+                            "words": [
+                                "thick",
+                                "breathable",
+                                "fit",
+                                "hard",
+                                "rubber"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(32)",
+                            "color": "#FF3030",
+                            "size": 32,
+                            "postIds": [
+                                "1266",
+                                "185",
+                                "1555",
+                                "517",
+                                "847",
+                                "595"
+                            ],
+                            "words": [
+                                "light",
+                                "deep",
+                                "fit",
+                                "attractive",
+                                "leather",
+                                "hard"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                },
+                {
+                    "name": "make",
+                    "children": [
+                        {
+                            "name": "Weak Positive(64)",
+                            "color": "#BCEE68",
+                            "size": 64,
+                            "postIds": [
+                                "1909",
+                                "36",
+                                "236",
+                                "353",
+                                "986",
+                                "1383"
+                            ],
+                            "words": [
+                                "sole",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Positive(59)",
+                            "color": "#A2CD5A",
+                            "size": 59,
+                            "postIds": [
+                                "395",
+                                "667",
+                                "948",
+                                "1361",
+                                "1201",
+                                "402"
+                            ],
+                            "words": [
+                                "flat",
+                                "sole",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(48)",
+                            "color": "#6E8B3D",
+                            "size": 48,
+                            "postIds": [
+                                "1565",
+                                "1410",
+                                "1039",
+                                "1093",
+                                "1677",
+                                "278"
+                            ],
+                            "words": [
+                                "arch",
+                                "sole"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(71)",
+                            "color": "#FFC1C1",
+                            "size": 71,
+                            "postIds": [
+                                "101",
+                                "171",
+                                "881",
+                                "922",
+                                "1164",
+                                "73"
+                            ],
+                            "words": [
+                                "flat",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Negative(45)",
+                            "color": "#FF6666",
+                            "size": 45,
+                            "postIds": [
+                                "1595",
+                                "1194",
+                                "1598",
+                                "1604",
+                                "333",
+                                "307"
+                            ],
+                            "words": [
+                                "sole",
+                                "flat",
+                                "arch"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(22)",
+                            "color": "#FF3030",
+                            "size": 22,
+                            "postIds": [
+                                "185",
+                                "1205",
+                                "320",
+                                "1768",
+                                "595",
+                                "1164"
+                            ],
+                            "words": [
+                                "sole",
+                                "arch",
+                                "flat"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                },
+                {
+                    "name": "material",
+                    "children": [
+                        {
+                            "name": "Weak Positive(229)",
+                            "color": "#BCEE68",
+                            "size": 229,
+                            "postIds": [
+                                "1818",
+                                "503",
+                                "1130",
+                                "1909",
+                                "1232",
+                                "544"
+                            ],
+                            "words": [
+                                "loud",
+                                "supportive",
+                                "light",
+                                "sole"
+                            ]
+                        },
+                        {
+                            "name": "Positive(190)",
+                            "color": "#A2CD5A",
+                            "size": 190,
+                            "postIds": [
+                                "929",
+                                "159",
+                                "667",
+                                "1160",
+                                "154",
+                                "1138"
+                            ],
+                            "words": [
+                                "snug",
+                                "light",
+                                "sole",
+                                "beautiful"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(176)",
+                            "color": "#6E8B3D",
+                            "size": 176,
+                            "postIds": [
+                                "1521",
+                                "693",
+                                "513",
+                                "1039",
+                                "317",
+                                "407"
+                            ],
+                            "words": [
+                                "durable",
+                                "slim",
+                                "cushiony",
+                                "sole",
+                                "narrower",
+                                "snug"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(164)",
+                            "color": "#FFC1C1",
+                            "size": 164,
+                            "postIds": [
+                                "1708",
+                                "930",
+                                "38",
+                                "1480",
+                                "1379",
+                                "1183"
+                            ],
+                            "words": [
+                                "snug",
+                                "clunky",
+                                "stiff",
+                                "shiny",
+                                "striking",
+                                "rubber"
+                            ]
+                        },
+                        {
+                            "name": "Negative(72)",
+                            "color": "#FF6666",
+                            "size": 72,
+                            "postIds": [
+                                "1595",
+                                "347",
+                                "1214",
+                                "1194",
+                                "277",
+                                "1604"
+                            ],
+                            "words": [
+                                "sole",
+                                "breathable",
+                                "rubber",
+                                "plastic",
+                                "sturdy"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(27)",
+                            "color": "#FF3030",
+                            "size": 27,
+                            "postIds": [
+                                "1266",
+                                "1052",
+                                "185",
+                                "1205",
+                                "320",
+                                "847"
+                            ],
+                            "words": [
+                                "light",
+                                "tough",
+                                "sole",
+                                "leather"
+                            ]
+                        },
+                        {
+                            "name": "Neutral(1)",
+                            "color": "#FFFFF0",
+                            "size": 1,
+                            "postIds": [
+                                "1861"
+                            ],
+                            "words": [
+                                "durable"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                },
+                {
+                    "name": "style",
+                    "children": [
+                        {
+                            "name": "Weak Positive(290)",
+                            "color": "#BCEE68",
+                            "size": 290,
+                            "postIds": [
+                                "1818",
+                                "1720",
+                                "36",
+                                "648",
+                                "523",
+                                "315"
+                            ],
+                            "words": [
+                                "loud",
+                                "narrow",
+                                "small",
+                                "arch",
+                                "large",
+                                "style"
+                            ]
+                        },
+                        {
+                            "name": "Positive(239)",
+                            "color": "#A2CD5A",
+                            "size": 239,
+                            "postIds": [
+                                "507",
+                                "395",
+                                "672",
+                                "1027",
+                                "684",
+                                "1854"
+                            ],
+                            "words": [
+                                "long",
+                                "flat",
+                                "style",
+                                "sporty"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(185)",
+                            "color": "#6E8B3D",
+                            "size": 185,
+                            "postIds": [
+                                "1783",
+                                "693",
+                                "1565",
+                                "1410",
+                                "1541",
+                                "1221"
+                            ],
+                            "words": [
+                                "sporty",
+                                "slim",
+                                "small",
+                                "arch",
+                                "stylish",
+                                "narrow"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(228)",
+                            "color": "#FFC1C1",
+                            "size": 228,
+                            "postIds": [
+                                "1708",
+                                "577",
+                                "930",
+                                "1480",
+                                "101",
+                                "1584"
+                            ],
+                            "words": [
+                                "plain",
+                                "wider",
+                                "style",
+                                "shiny",
+                                "flat",
+                                "narrow"
+                            ]
+                        },
+                        {
+                            "name": "Negative(120)",
+                            "color": "#FF6666",
+                            "size": 120,
+                            "postIds": [
+                                "347",
+                                "1616",
+                                "1540",
+                                "1214",
+                                "1598",
+                                "242"
+                            ],
+                            "words": [
+                                "breathable",
+                                "narrow",
+                                "long",
+                                "arch",
+                                "flat",
+                                "small"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(52)",
+                            "color": "#FF3030",
+                            "size": 52,
+                            "postIds": [
+                                "414",
+                                "1390",
+                                "1052",
+                                "185",
+                                "1555",
+                                "1768"
+                            ],
+                            "words": [
+                                "style",
+                                "long",
+                                "tough",
+                                "deep",
+                                "attractive",
+                                "arch"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                },
+                {
+                    "name": "weight",
+                    "children": [
+                        {
+                            "name": "Weak Positive(67)",
+                            "color": "#BCEE68",
+                            "size": 67,
+                            "postIds": [
+                                "1130",
+                                "1232",
+                                "544",
+                                "1123",
+                                "808",
+                                "1554"
+                            ],
+                            "words": [
+                                "light",
+                                "impressed"
+                            ]
+                        },
+                        {
+                            "name": "Positive(62)",
+                            "color": "#A2CD5A",
+                            "size": 62,
+                            "postIds": [
+                                "159",
+                                "154",
+                                "1138",
+                                "1303",
+                                "1093",
+                                "1371"
+                            ],
+                            "words": [
+                                "light",
+                                "heavier"
+                            ]
+                        },
+                        {
+                            "name": "Strong Positive(60)",
+                            "color": "#6E8B3D",
+                            "size": 60,
+                            "postIds": [
+                                "693",
+                                "1093",
+                                "1078",
+                                "543",
+                                "1127",
+                                "203"
+                            ],
+                            "words": [
+                                "slim",
+                                "heavier",
+                                "heavy",
+                                "light"
+                            ]
+                        },
+                        {
+                            "name": "Weak Negative(46)",
+                            "color": "#FFC1C1",
+                            "size": 46,
+                            "postIds": [
+                                "930",
+                                "1154",
+                                "713",
+                                "176",
+                                "1648",
+                                "1471"
+                            ],
+                            "words": [
+                                "clunky",
+                                "light",
+                                "flimsy",
+                                "heavy"
+                            ]
+                        },
+                        {
+                            "name": "Negative(14)",
+                            "color": "#FF6666",
+                            "size": 14,
+                            "postIds": [
+                                "1604",
+                                "1435",
+                                "1165",
+                                "1680",
+                                "267",
+                                "380"
+                            ],
+                            "words": [
+                                "sturdy",
+                                "light",
+                                "flimsy"
+                            ]
+                        },
+                        {
+                            "name": "Strong Negative(9)",
+                            "color": "#FF3030",
+                            "size": 9,
+                            "postIds": [
+                                "1266",
+                                "977",
+                                "388",
+                                "1655",
+                                "1390",
+                                "1483"
+                            ],
+                            "words": [
+                                "light"
+                            ]
+                        }
+                    ],
+                    "size": 0
+                }
+            ],
+            "size": 0
+        },
+        {
+            "name": "colour",
+            "children": [
+                {
+                    "name": "Weak Positive(156)",
+                    "color": "#BCEE68",
+                    "size": 156,
+                    "postIds": [
+                        "1818",
+                        "1130",
+                        "1232",
+                        "544",
+                        "486",
+                        "1540"
+                    ],
+                    "words": [
+                        "loud",
+                        "light",
+                        "green",
+                        "bright",
+                        "red"
+                    ]
+                },
+                {
+                    "name": "Positive(96)",
+                    "color": "#A2CD5A",
+                    "size": 96,
+                    "postIds": [
+                        "159",
+                        "684",
+                        "1854",
+                        "154",
+                        "1138",
+                        "1303"
+                    ],
+                    "words": [
+                        "light",
+                        "black",
+                        "green",
+                        "bright"
+                    ]
+                },
+                {
+                    "name": "Strong Positive(98)",
+                    "color": "#6E8B3D",
+                    "size": 98,
+                    "postIds": [
+                        "1157",
+                        "65",
+                        "165",
+                        "543",
+                        "1127",
+                        "203"
+                    ],
+                    "words": [
+                        "bright",
+                        "vibrant",
+                        "light"
+                    ]
+                },
+                {
+                    "name": "Weak Negative(125)",
+                    "color": "#FFC1C1",
+                    "size": 125,
+                    "postIds": [
+                        "1480",
+                        "29",
+                        "1379",
+                        "1154",
+                        "176",
+                        "1507"
+                    ],
+                    "words": [
+                        "shiny",
+                        "red",
+                        "yellow",
+                        "light",
+                        "blue"
+                    ]
+                },
+                {
+                    "name": "Negative(52)",
+                    "color": "#FF6666",
+                    "size": 52,
+                    "postIds": [
+                        "450",
+                        "603",
+                        "32",
+                        "1435",
+                        "250",
+                        "830"
+                    ],
+                    "words": [
+                        "white",
+                        "blue",
+                        "light",
+                        "red"
+                    ]
+                },
+                {
+                    "name": "Strong Negative(30)",
+                    "color": "#FF3030",
+                    "size": 30,
+                    "postIds": [
+                        "551",
+                        "1266",
+                        "1832",
+                        "1187",
+                        "977",
+                        "1918"
+                    ],
+                    "words": [
+                        "black",
+                        "light",
+                        "blue"
+                    ]
+                },
+                {
+                    "name": "Neutral(1)",
+                    "color": "#FFFFF0",
+                    "size": 1,
+                    "postIds": [
+                        "508"
+                    ],
+                    "words": [
+                        "orange"
+                    ]
+                }
+            ],
+            "size": 0
+        },
+        {
+            "name": "comfortable",
+            "children": [
+                {
+                    "name": "Weak Positive(656)",
+                    "color": "#BCEE68",
+                    "size": 656,
+                    "postIds": [
+                        "220",
+                        "1720",
+                        "503",
+                        "831",
+                        "1054",
+                        "1151"
+                    ],
+                    "words": [
+                        "tired",
+                        "narrow",
+                        "supportive",
+                        "insole",
+                        "wide",
+                        "support"
+                    ]
+                },
+                {
+                    "name": "Positive(604)",
+                    "color": "#A2CD5A",
+                    "size": 604,
+                    "postIds": [
+                        "355",
+                        "929",
+                        "1024",
+                        "395",
+                        "159",
+                        "1027"
+                    ],
+                    "words": [
+                        "traction",
+                        "dry",
+                        "snug",
+                        "fit",
+                        "wide",
+                        "flat",
+                        "light",
+                        "support"
+                    ]
+                },
+                {
+                    "name": "Strong Positive(632)",
+                    "color": "#6E8B3D",
+                    "size": 632,
+                    "postIds": [
+                        "503",
+                        "1208",
+                        "1712",
+                        "1783",
+                        "693",
+                        "1565"
+                    ],
+                    "words": [
+                        "wide",
+                        "slippery",
+                        "traction",
+                        "fit",
+                        "support",
+                        "fitting"
+                    ]
+                },
+                {
+                    "name": "Weak Negative(523)",
+                    "color": "#FFC1C1",
+                    "size": 523,
+                    "postIds": [
+                        "377",
+                        "1708",
+                        "414",
+                        "930",
+                        "38",
+                        "101"
+                    ],
+                    "words": [
+                        "cushion",
+                        "snug",
+                        "tight",
+                        "wide",
+                        "worn",
+                        "clunky",
+                        "lightweight",
+                        "stiff",
+                        "flat"
+                    ]
+                },
+                {
+                    "name": "Negative(268)",
+                    "color": "#FF6666",
+                    "size": 268,
+                    "postIds": [
+                        "1710",
+                        "1959",
+                        "1595",
+                        "347",
+                        "1616",
+                        "1179"
+                    ],
+                    "words": [
+                        "comfy",
+                        "wide",
+                        "cushion",
+                        "breathable",
+                        "narrow",
+                        "padding"
+                    ]
+                },
+                {
+                    "name": "Strong Negative(122)",
+                    "color": "#FF3030",
+                    "size": 122,
+                    "postIds": [
+                        "968",
+                        "350",
+                        "1266",
+                        "1098",
+                        "1555",
+                        "1228"
+                    ],
+                    "words": [
+                        "worn",
+                        "pain",
+                        "light",
+                        "dry",
+                        "balance",
+                        "fit",
+                        "swollen",
+                        "traction"
+                    ]
+                },
+                {
+                    "name": "Neutral(1)",
+                    "color": "#FFFFF0",
+                    "size": 1,
+                    "postIds": [
+                        "969"
+                    ],
+                    "words": [
+                        "padding"
+                    ]
+                }
+            ],
+            "size": 0
+        },
+        {
+            "name": "price",
+            "children": [
+                {
+                    "name": "Weak Positive(16)",
+                    "color": "#BCEE68",
+                    "size": 16,
+                    "postIds": [
+                        "995",
+                        "1266",
+                        "151",
+                        "1850",
+                        "1519",
+                        "1737"
+                    ],
+                    "words": [
+                        "reasonable",
+                        "cheaper",
+                        "cheap",
+                        "inexpensive",
+                        "expensive"
+                    ]
+                },
+                {
+                    "name": "Positive(15)",
+                    "color": "#A2CD5A",
+                    "size": 15,
+                    "postIds": [
+                        "839",
+                        "1854",
+                        "1682",
+                        "1628",
+                        "420",
+                        "1950"
+                    ],
+                    "words": [
+                        "cheap",
+                        "affordable",
+                        "expensive",
+                        "reasonable"
+                    ]
+                },
+                {
+                    "name": "Strong Positive(23)",
+                    "color": "#6E8B3D",
+                    "size": 23,
+                    "postIds": [
+                        "1974",
+                        "1327",
+                        "547",
+                        "1306",
+                        "451",
+                        "966"
+                    ],
+                    "words": [
+                        "expensive",
+                        "cheap",
+                        "affordable"
+                    ]
+                },
+                {
+                    "name": "Weak Negative(9)",
+                    "color": "#FFC1C1",
+                    "size": 9,
+                    "postIds": [
+                        "845",
+                        "841",
+                        "756",
+                        "655",
+                        "1724",
+                        "378"
+                    ],
+                    "words": [
+                        "cheap",
+                        "affordable",
+                        "inexpensive"
+                    ]
+                },
+                {
+                    "name": "Negative(5)",
+                    "color": "#FF6666",
+                    "size": 5,
+                    "postIds": [
+                        "307",
+                        "696",
+                        "1652",
+                        "842",
+                        "1930"
+                    ],
+                    "words": [
+                        "cheap",
+                        "expensive",
+                        "inexpensive"
+                    ]
+                },
+                {
+                    "name": "Strong Negative(1)",
+                    "color": "#FF3030",
+                    "size": 1,
+                    "postIds": [
+                        "1053"
+                    ],
+                    "words": [
+                        "affordable"
+                    ]
+                }
+            ],
+            "size": 0
+        }
+    ],
+    "size": 0
+}
